@@ -1,25 +1,20 @@
 
-**What is Syntrax Start Shell**
+**What is Syntrax Start Shell?**
 
-Start Shell is the Long-Term Support (LTS) version of the Syntrax command-line shell, built on the stable 1.1.3 release. It serves as a reliable foundation while newer versions of Syntrax CLI's continue to evolve. Now that Nyrion 3.0 Released, This is the best of Nyrions CLI (1.0 to 1.3.1) It contains all the the good commands from the early Nyrion versions. And I also migrated it to QopWarren. Which makes the old commands even easier and more stable then ever. 
+Syntrax Start Shell is an open source, Non AI. CLI build for different kinds of people. It doesn't matter if you are an developer or an normal everyday person. You can learn Syntrax Start Shell. Syntrax Start Shell is YOUR cli. So you can do whatever you want with it, thats the nice thing of open source software. 
 
-This LTS branch exists to:
+Syntrax Start Shell can do multiple different tasks, Simple and hard tasks. From copying files to making art. This is truly YOUR Cli.
 
-- Preserve a stable and functional core
+**Minimum Requirements:**
+- Windows XP
+- .NET 4.0
 
-- Keep getting updates and new features
+*The legacy Windows one (98SE to 2000) and the Linux/MacOS one is being updated RN, Please be patient so that I can finish the project*
 
-  **MINIMUM REQUIREMENTS**
-  - Windows XP or higher
-  - .Net 4.0
+**Simple, Personal, Yours. - Syntrax**
 
-**Using Linux or macOS?**
-Use the official Python macOS/Linux release.
-Download: https://github.com/PingunixDevelopments/Atlas-Experimental-Atlas-macOS
 
-Although this version is locked to a stable base, future updates and features will still be added—carefully and without breaking core functionality. The goal is to extend the shell while keeping it clean, reliable, and useful for long-term users.
 
-<img width="1024" height="1024" alt="Enhance the uploaded" src="https://github.com/user-attachments/assets/06884079-2cce-4bb2-86a7-f9956fee2280" />
 
 
 
